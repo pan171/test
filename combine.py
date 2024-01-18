@@ -6,3 +6,7 @@ def fun1():
 
 def fun2():
     pass
+
+
+def y():
+    pass
